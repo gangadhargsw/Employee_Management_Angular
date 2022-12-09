@@ -1,0 +1,15 @@
+.dot {
+    height: 30px;
+    width: 30px;
+    background-color: #bbb;
+    border-radius: 50%;
+    display: inline-block;
+    margin-right: 20px;
+  }
+
+.dropdown-toggle::after {
+    display:none;
+    border : none !important;
+    border-color: red;
+
+  }

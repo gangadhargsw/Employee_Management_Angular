@@ -1,0 +1,57 @@
+.container-fluid1{
+  width: 85%;
+  float: right;
+  /* background-color: pink; */
+  display: flex;
+  height: 180px;
+  justify-content: center;
+}
+.first{
+    height: 80px !important;
+    width: 180px;
+    background-image: linear-gradient(to right, red , rgb(228, 99, 70));
+    margin: auto;
+    border-radius: 10px;
+    color: #fff;
+    text-align: center;
+    cursor: pointer;
+}
+
+.second{
+    height: 80px !important;
+    width: 180px;
+    background-image: linear-gradient(to right, rgb(32, 114, 236) , rgb(20, 148, 227));
+    margin: auto;
+    border-radius: 5px;
+    color: #fff;
+    text-align: center;
+    cursor: pointer;
+}
+.third{
+    height: 80px !important;
+    width: 180px;
+    background-image: linear-gradient(to right, rgb(222, 10, 219) , rgb(237, 122, 229));
+    margin: auto;
+    border-radius: 10px;
+    color: #fff;
+    text-align: center;
+    cursor: pointer;
+}
+.fourth{
+    height: 80px !important;
+    width: 180px;
+    background-image: linear-gradient(to right, rgb(5, 83, 35) , rgb(43, 181, 78));
+    margin: auto;
+    border-radius: 10px;
+    color: #fff;
+    text-align: center;
+    cursor: pointer;
+}
+h6{
+    margin-top: 0.5rem;
+}
+h5{
+    margin-top: 0.7rem;
+}
+
+

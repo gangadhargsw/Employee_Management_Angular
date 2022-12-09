@@ -1,0 +1,12 @@
+<div class="sidebarMenu" [ngClass]="status ? 'genisSideBar' : 'darSideBar'"
+style="float: left;">
+</div>
+
+<div class="genisSideBarAlt d-flex justify-content-center">
+    <button class="btn1" (click)="open()" *ngIf="arrow">
+        <i  class="fa-solid fa-arrow-left"></i>
+    </button>
+    <button class="btn1" (click)="close()" *ngIf="!arrow">
+        <i  class="fa-solid fa-arrow-right"></i>
+    </button>
+</div>

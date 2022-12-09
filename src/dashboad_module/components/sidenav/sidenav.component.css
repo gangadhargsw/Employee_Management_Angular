@@ -1,0 +1,32 @@
+.sidebarMenu{
+    background-color: #cccccc;
+    color: #fff;
+    width: auto;
+    height: 80.5vh;
+  }
+  .genisSideBar{
+    width: 160px;
+    transition: .40s;
+  }
+  .darSideBar{
+    width: 60px;
+    transition: .40s;
+  }
+  
+    
+  .genisSideBarAlt{
+    float: left;
+    width: 25px;
+    margin-top: 10px;
+  }
+  .btn1{
+    background-color: rgb(237, 67, 67) !important;
+    border-radius: 5px !important;
+    border-color: rgb(237, 67, 67) ;
+    color: #fff;
+    width: 25px;
+  }
+  .darSideBarAlt{
+    width: 60px;
+  }
+  
